@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49804641998",
+    "firebase_url": "https://myapp-cec83.firebaseio.com",
+    "project_id": "myapp-cec83",
+    "storage_bucket": "myapp-cec83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49804641998:android:8b1098c87bfc00e8",
+        "android_client_info": {
+          "package_name": "com.mynewcrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49804641998-jui4gg8qoa2ju9hha9rrngrh1i4utll0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ90fNAoMNPPR64toRH0n67JcBCJIcSPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49804641998-jui4gg8qoa2ju9hha9rrngrh1i4utll0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49804641998-hhlpgulu7rn7a0dd57b4kseaa4i2g3te.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.MyNewCrashlytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
